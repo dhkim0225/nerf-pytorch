@@ -130,4 +130,5 @@ dmypy.json
 
 # nerf-pytorch
 .idea
-testscene
+data
+checkpoints
